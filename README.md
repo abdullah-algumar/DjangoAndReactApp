@@ -9,7 +9,7 @@
 
 ## ![Django](https://github.com/abdullah-algumar/DRFAuthFilter)
 
-## [React](https://github.com/abdullah-algumar/ReactApp)
+## ![React](https://github.com/abdullah-algumar/ReactApp)
 
 # Install and Run
 
