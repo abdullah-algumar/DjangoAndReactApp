@@ -7,9 +7,9 @@
 - Following and listing of follow-ups. REST and React
 -
 
-![Django](https://github.com/abdullah-algumar/DRFAuthFilter)
+## ![Django](https://github.com/abdullah-algumar/DRFAuthFilter)
 
-![React](https://github.com/abdullah-algumar/ReactApp)
+## [React](https://github.com/abdullah-algumar/ReactApp)
 
 # Install and Run
 
