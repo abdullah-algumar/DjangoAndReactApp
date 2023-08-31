@@ -1,8 +1,8 @@
 [submodule "core"]
-	path = DRFAuthFilter
+	path = core
 	url = https://github.com/abdullah-algumar/DRFAuthFilter
 	branch = master
 [submodule "frontend"]
-	path = ReactApp
+	path = frontend
 	url = https://github.com/abdullah-algumar/ReactApp
 	branch = master
