@@ -13,6 +13,12 @@
 
 # Install and Run
 
+### Install main Repo: 
+`gi clone https://github.com/abdullah-algumar/DjangoAndReactApp.git`
+
+### Install React & Django repos:
+`git submodule update --init --recursive`
+
 ### Create a environment file in the BASE_DIR named .env and put the informations:
 
 ```
